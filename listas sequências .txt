@@ -1,0 +1,44 @@
+Bem-vindo ao gerenciador de estoque!
+
+**Opções:**
+
+1. Adicionar produto
+2. Vender produto
+3. Exibir estoque
+4. Sair
+Digite a opção desejada: 1
+**Novo produto:**
+Nome do produto: Camiseta
+Quantidade: 10
+Preço unitário: R$ 20,00
+Produto adicionado com sucesso!
+**Opções:**
+1. Adicionar produto
+2. Vender produto
+3. Exibir estoque
+4. Sair
+Digite a opção desejada: 2
+
+**Venda de produto:**
+
+Nome do produto: Camiseta
+Quantidade a vender: 5
+Venda realizada com sucesso!
+**Opções:**
+1. Adicionar produto
+2. Vender produto
+3. Exibir estoque
+4. Sair
+Digite a opção desejada: 3
+**Estoque atual:**
+Produto | Quantidade | Preço Unitário
+------- | -------- | --------
+Camiseta | 5 | R$ 20,00
+**Opções:**
+1. Adicionar produto
+2. Vender produto
+
+3. Exibir estoque
+
+4. Sair
+Digite a opção desejada: 4
